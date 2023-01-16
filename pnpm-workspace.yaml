@@ -1,0 +1,10 @@
+packages:
+  - apps/nextjs
+  - apps/sanity-admin
+  - packages/api
+  - packages/auth
+  - packages/db
+  - packages/config/*
+  - packages/ui
+  - packages/type-utils
+  - packages/sanity-schema
